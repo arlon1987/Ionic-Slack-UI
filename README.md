@@ -15,7 +15,8 @@ Ionic Slack user interface theme!
 ionic-plugin-keyboard
 cordova-plugin-statusbar
 cordova-plugin-splashscreen
-SASS
+
+# SASS
 Easily modify styles www/lib/slackUI/scss/*
 run ionic setup sass
 run ionic serve
